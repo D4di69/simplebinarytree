@@ -6,7 +6,7 @@ The special thing about this script is that we aren't using any classes nor obje
 You are free to use this code (unlicense), note that at the moment this script doesn't have any user input and it contains only a "create node" function. <br />
 If you want to add the stuff that we need (see the "to do" section of this readme) then open a pull request! Thank you! 
 
-# Node identifier
+# Node IDentifier
 The node identifier is: parent identifier + position <br />
 Position: 0 = Root, 1 = Left, 2 = Right
 
