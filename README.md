@@ -7,7 +7,8 @@ You are free to use this code, note that at the moment this script doesn't have 
 If you want to add the stuff that we need (see the "to do" section of this readme" then open a pull request! Thank you! 
 
 # Node identifier
-The node identifier is: parent identifier + position
+The node identifier is: parent identifier + position <br />
+Position: 0 = Root, 1 = Left, 2 = Right
 
 # To do:
 -"delete node" function <br />
