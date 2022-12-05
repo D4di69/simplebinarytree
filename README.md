@@ -4,6 +4,7 @@ The special thing about this script is that we aren't using any classes nor obje
 
 # Updates
 -05/12/2022 Added length and depth calculation, found problems with the node IDentifier (just fixed) + fixed other bugs.
+-04/12/2022 First version is released!
 
 # Note
 You are free to use this code (unlicense), note that at the moment this script doesn't have any user input and it contains only a "create node" function. <br />
