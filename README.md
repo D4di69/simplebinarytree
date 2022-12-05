@@ -18,4 +18,4 @@ Position: 0 = Root, 1 = Left, 2 = Right
 -"modify node's value" function <br />
 -User input <br />
 -Print a graphical text-only map of the binary tree <br />
--Info about the tree's length and depth
+-Fix node IDentifier
