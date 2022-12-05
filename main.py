@@ -21,13 +21,13 @@ def getKeysByValue(dictOfElements, valueToFind): # This should be ignored, it is
             listOfKeys.append(item[0])
     return listOfKeys
 
-def createNode(position, parent, value): # For position: 0 = Root 1 = Left and 2 = Right
+def createNode(position, parent, value): # For position: 0 = Root, 1 = Left and 2 = Right
     listOfKeys = getKeysByValue(node_parent, parent)
     totalChilds = len(listOfKeys)
-    if(totalChilds>=2):
+    if(totalChilds==2):
         print("Error! Parent can't have more than two childs in a binary tree!")
     else:
-        temp_identifier = parent + position
+        temp_identifier = tree_length + 1
         node_parent[temp_identifier] = parent
         node_data[temp_identifier] = value
         node_position[temp_identifier] = position
