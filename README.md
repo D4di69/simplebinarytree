@@ -10,7 +10,7 @@ You are free to use this code (unlicense), note that at the moment this script d
 If you want to add the stuff that we need (see the "to do" section of this readme) then open a pull request! Thank you! 
 
 # Node IDentifier
-The node identifier is: parent identifier + position <br />
+The default node identifier is: tree_length + 1 <br />
 Position: 0 = Root, 1 = Left, 2 = Right
 
 # To do:
