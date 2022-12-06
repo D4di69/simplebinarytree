@@ -4,7 +4,7 @@ The special thing about this script is that we aren't using any classes nor obje
 Cloning this project means a lot for me, happy to help with python code.
 
 # Updates
--05/12/2022 Added length and depth calculation of the tree, found problems with the node IDentifier (fixed) + fixed other minor bugs.
+-05/12/2022 Added length and depth calculation of the tree, found problems with the node IDentifier (fixed) + fixed other minor bugs. <br />
 -04/12/2022 First version is released!
 
 # Note
